@@ -10,7 +10,7 @@ Una aplicación web sencilla e interactiva para organizar el tradicional juego d
 
 ## Tecnologías utilizadas
 - **HTML5:** Estructura del contenido.
-- **CSS3:** Diseño y estilos, incluyendo fuentes de Google Fonts.
+- **CSS3:** Diseño y estilos.
 - **JavaScript:** Lógica para la gestión de nombres y el sorteo aleatorio.
 
 ## Estructura del proyecto
