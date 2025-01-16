@@ -43,37 +43,8 @@ Archivo de estilos que define el diseño visual de la aplicación
 ### 4. **assets/**
 Carpeta que contiene recursos como imágenes e íconos utilizados en la aplicación.
 
-## Uso
-1. **Clona este repositorio:**
-   ```bash
-   git clone https://github.com/usuario/amigo-secreto.git
-   ```
-2. **Abre el archivo `index.html` en tu navegador.**
-3. **Interacción:**
-   - Ingresa los nombres de los participantes.
-   - Haz clic en "Añadir" para agregarlos a la lista.
-   - Cuando estés listo, haz clic en "Sortear amigo" para obtener un resultado.
-
-## Capturas de pantalla
-### Pantalla principal
-![Pantalla principal de Amigo Secreto](assets/amigo-secreto.png)
-
-## Mejoras futuras
-- Permitir exportar la lista de participantes en formato de texto o archivo.
-- Implementar la opción para guardar el sorteo y enviarlo por correo electrónico.
-- Mejorar la experiencia de usuario con animaciones y efectos visuales.
-
-## Contribuciones
-Las contribuciones son bienvenidas. Si deseas colaborar:
-1. Realiza un fork del repositorio.
-2. Crea una nueva rama para tus cambios:
-   ```bash
-   git checkout -b feature/nueva-funcionalidad
-   ```
-3. Realiza un pull request con tus cambios.
-
 ## Autor
-**Juan Dolmus Corea**  
+**Juan Dolmus Corea**
 Puedes contactarme en: [jbautista.dormo.corea@gmail.com]
 
 
