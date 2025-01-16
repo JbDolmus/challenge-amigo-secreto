@@ -1,0 +1,4 @@
+
+function agregarAmigo() {}
+
+function sortearAmigo() {}
